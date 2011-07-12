@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Saveable/!svn/ver/30/trunk/PHPUnit/classes/Saveable/IndexDefinitions
+END
+ForeignKeyDefinitionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Saveable/!svn/ver/29/trunk/PHPUnit/classes/Saveable/IndexDefinitions/ForeignKeyDefinitionTest.php
+END
+KeyDefinitionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Saveable/!svn/ver/29/trunk/PHPUnit/classes/Saveable/IndexDefinitions/KeyDefinitionTest.php
+END
+PrimaryKeyDefinitionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Saveable/!svn/ver/30/trunk/PHPUnit/classes/Saveable/IndexDefinitions/PrimaryKeyDefinitionTest.php
+END
